@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "O.O",
+  "base_artist": "NMIXX",
+  "createdAt": "2025-12-18T12:51:58.692542Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "O.O.C.",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/01_O.O.C._Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "T.O.O.",
+      "artist": "Scooter",
+      "has_synced": false,
+      "path": "select/02_T.O.O._Scooter.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "R.O.O.T.S.",
+      "artist": "Flo Rida",
+      "has_synced": true,
+      "path": "select/03_R.O.O.T.S._Flo_Rida.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "R.O.O.T.S.",
+      "artist": "Flo Rida",
+      "has_synced": true,
+      "path": "select/04_R.O.O.T.S._Flo_Rida.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "O-o-h Child - Remastered",
+      "artist": "Nina Simone",
+      "has_synced": true,
+      "path": "select/05_O-o-h_Child_-_Remastered_Nina_Simone.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "O-o-h Child (Remastered)",
+      "artist": "Nina Simone",
+      "has_synced": true,
+      "path": "select/06_O-o-h_Child_(Remastered)_Nina_Simone.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Medley - Medley Ale'- O O' Live Version",
+      "artist": "Claudio Baglioni",
+      "has_synced": false,
+      "path": "select/07_Medley_-_Medley_Ale'-_O_O'_Live_Version_Claudio_Baglioni.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "G O O D",
+      "artist": "Erin McCarley",
+      "has_synced": true,
+      "path": "select/08_G_O_O_D_Erin_McCarley.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "O-o-h Child - Remastered",
+      "artist": "Five Stairsteps",
+      "has_synced": true,
+      "path": "select/09_O-o-h_Child_-_Remastered_Five_Stairsteps.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "O-O-H Child",
+      "artist": "Paul Stanley's Soul Station",
+      "has_synced": false,
+      "path": "select/10_O-O-H_Child_Paul_Stanley's_Soul_Station.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "O-o-h Child",
+      "artist": "The Five Stairsteps",
+      "has_synced": true,
+      "path": "select/11_O-o-h_Child_The_Five_Stairsteps.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "O-o-h Child",
+      "artist": "Nina Simone",
+      "has_synced": false,
+      "path": "select/12_O-o-h_Child_Nina_Simone.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "O-o-h Child - (Nickodemus Remix)",
+      "artist": "Nina Simone",
+      "has_synced": true,
+      "path": "select/13_O-o-h_Child_-_(Nickodemus_Remix)_Nina_Simone.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "O-o-h Child (Nickodemus Remix)",
+      "artist": "Nina Simone",
+      "has_synced": true,
+      "path": "select/14_O-o-h_Child_(Nickodemus_Remix)_Nina_Simone.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Belle From Barcelona (O-O-Le, Mu-Cha-Cha)",
+      "artist": "Dean Martin",
+      "has_synced": false,
+      "path": "select/15_Belle_From_Barcelona_(O-O-Le,_Mu-Cha-Cha)_Dean_Martin.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "O.O",
+      "artist": "NMIXX",
+      "has_synced": false,
+      "path": "select/pl_01_O.O_NMIXX.txt"
+    }
+  ]
+}
